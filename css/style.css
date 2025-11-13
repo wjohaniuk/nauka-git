@@ -1,0 +1,30 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+body {
+	font-size: 16px;
+	line-height: 1.7;
+	font-family: 'Times new roma', monospace;
+	color: #2c2c54;
+	align-items: center;
+}
+
+header {
+	margin: 30px 150px;
+}
+
+h1 {
+	margin-bottom: 0;
+}
+
+.author {
+	text-decoration: underline;
+}
+
+section {
+	margin: 20px 150px;
+	width: 50%;
+}
