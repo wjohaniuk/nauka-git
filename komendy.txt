@@ -1,0 +1,5 @@
+install:
+npm install --save-dev html-validate
+
+run:
+npm exec html-validate index.html
